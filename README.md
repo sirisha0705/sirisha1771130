@@ -16,13 +16,6 @@ I’m interested in machine learning, computer vision, and web development.
 <table>
 <tr>
 <td>
-
-### about me
-
-- computer science student  
-- learning machine learning  
-- interested in image processing  
-
 </td>
 <td>
 
